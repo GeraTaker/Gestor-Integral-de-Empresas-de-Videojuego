@@ -1,16 +1,22 @@
-# tarea1_challenge_tennis_version_videojuegos
+# APK version 1 Administrador de servicios de compañias de videojuegos
 
-A new Flutter project.
+Creación de un administrador de servicios de videojuegos a base del challenge de tennis
 
-## Getting Started
+## Introducción
 
-This project is a starting point for a Flutter application.
+En esta práctica, se llevará a cabo un desafío centrado en la creación de una 
+tienda de tenis siguiendo las pautas de un video guía. El objetivo es implementar 
+y personalizar una serie de widgets de manera más individualizada, así como 
+también introducir una temática diferente. Durante el proceso, se tendrá que 
+prestar atención a todo el conocimiento sobre cada uno de los widgets, clases, 
+constantes y propiedades utilizadas, al mismo tiempo que se aplicarán los 
+conceptos aprendidos en la materia de Programación Móvil y Servicios en la 
+Nube, impartida por maestro Rubén Torres Frías en las últimas semanas.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Dependencias del Poryecto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|  Packages               | Version       |
+| ----------------------- |:------------- |
+| `Flutter`               |   Flutter 3     |
+| `Dark`                  |  2.11.0       |
